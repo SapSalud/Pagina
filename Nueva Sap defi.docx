@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sap_Salud Gestión de Turnos</title>
+    <title>Gestión de Turnos</title>
     <style>
         body {
             font-family: Arial, sans-serif;
